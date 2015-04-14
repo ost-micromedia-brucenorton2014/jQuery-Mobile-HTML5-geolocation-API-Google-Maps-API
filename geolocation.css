@@ -1,0 +1,8 @@
+/*stylesheet*/
+html, body, #map-canvas, #directions-canvas{
+	height: 100%;
+}
+
+.ui-content, #mapPage, #directionsPage{
+	height: inherit;
+}
