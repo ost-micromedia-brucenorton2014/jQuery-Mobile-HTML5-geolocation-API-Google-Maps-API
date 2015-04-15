@@ -46,7 +46,6 @@
 </div><!-- /page -->
     <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-    <script src="myGoogleKey.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTZea67jn4YSPIGu0dNTHRyB1jnvo1Q00"></script>
     <script src="geolocation.js"></script>
 </body>
